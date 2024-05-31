@@ -1,0 +1,229 @@
+<mxfile host="Electron" modified="2024-05-31T14:00:07.961Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.8 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="PqsEKJNDc9xJJeGg43t7" version="24.4.8" type="device" pages="2">
+  <diagram name="MainMenu" id="aaeIW18yw2lmmVOIv5V-">
+    <mxGraphModel dx="3267" dy="2764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rKbv__8entvgOV00URj3-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="34" y="60" width="760" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="rKbv__8entvgOV00URj3-2" value="Godlike&amp;lt;Main Title&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="34" y="60" width="760" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rKbv__8entvgOV00URj3-3" value="X" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="774" y="60" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rKbv__8entvgOV00URj3-4" value="ㅁ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="754" y="60" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rKbv__8entvgOV00URj3-5" value="_" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="734" y="60" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rKbv__8entvgOV00URj3-6" value="World Title" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="34" y="80" width="176" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rKbv__8entvgOV00URj3-7" value="General&lt;br&gt;Lore Tab" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="34" y="120" width="96" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="rKbv__8entvgOV00URj3-8" value="World&amp;nbsp;&lt;br&gt;Lore Tab" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="124" y="120" width="86" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="rKbv__8entvgOV00URj3-9" value="World Title Image" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="80" width="584" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="rKbv__8entvgOV00URj3-11" value="Character Image Grid" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="290" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rKbv__8entvgOV00URj3-12" value="Other World Related Image(Place, Incident, etc...)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="290" width="294" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rKbv__8entvgOV00URj3-13" value="Character Lore Info" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="340" width="290" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="rKbv__8entvgOV00URj3-14" value="World Related Iamge Description" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="340" width="294" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="rKbv__8entvgOV00URj3-15" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="779" y="170" width="10" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="rKbv__8entvgOV00URj3-16" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="220" y="170" width="10" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="rKbv__8entvgOV00URj3-17" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="430" y="270" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="rKbv__8entvgOV00URj3-18" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="450" y="270" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="rKbv__8entvgOV00URj3-19" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="470" y="270" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="rKbv__8entvgOV00URj3-20" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="490" y="270" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="rKbv__8entvgOV00URj3-21" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="510" y="270" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="rKbv__8entvgOV00URj3-22" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="530" y="270" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="rKbv__8entvgOV00URj3-23" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="550" y="270" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="rKbv__8entvgOV00URj3-25" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;General Lore Tab&lt;/h1&gt;&lt;p&gt;Show general lore (Character, Backstroy, Background lore etc...)&lt;/p&gt;&lt;p&gt;Can scroll vertical&lt;/p&gt;&lt;p&gt;Bar style item display&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="500" width="350" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rKbv__8entvgOV00URj3-26" value="" style="endArrow=none;dashed=1;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;jumpStyle=arc;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rKbv__8entvgOV00URj3-25" target="rKbv__8entvgOV00URj3-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="340" as="sourcePoint" />
+            <mxPoint x="60" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rKbv__8entvgOV00URj3-27" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;World Lore Tab&lt;/h1&gt;&lt;p&gt;Show world related lore (Planet Info, Incident that happend in world etc...)&lt;/p&gt;&lt;p&gt;Can scrol vertical&lt;/p&gt;&lt;p&gt;Bar style item display&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-160" width="350" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="rKbv__8entvgOV00URj3-28" value="" style="endArrow=none;dashed=1;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;jumpStyle=arc;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rKbv__8entvgOV00URj3-27" target="rKbv__8entvgOV00URj3-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-40" y="570" as="sourcePoint" />
+            <mxPoint x="44" y="305" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="50" y="-90" />
+              <mxPoint x="50" y="20" />
+              <mxPoint x="167" y="20" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rKbv__8entvgOV00URj3-29" value="Selected World Name" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-210" y="30" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rKbv__8entvgOV00URj3-30" value="" style="endArrow=none;dashed=1;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;jumpStyle=arc;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rKbv__8entvgOV00URj3-29" target="rKbv__8entvgOV00URj3-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-130" y="110" as="sourcePoint" />
+            <mxPoint x="-23" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-105" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rKbv__8entvgOV00URj3-32" value="First image will be main world image(Title Image, or Logo)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="-50" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rKbv__8entvgOV00URj3-33" value="" style="endArrow=none;dashed=1;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;jumpStyle=arc;entryX=0.615;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="rKbv__8entvgOV00URj3-32" target="rKbv__8entvgOV00URj3-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="615" y="-90" as="sourcePoint" />
+            <mxPoint x="754" y="-50" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="590" y="30" />
+              <mxPoint x="501" y="30" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rKbv__8entvgOV00URj3-34" value="Can navigate world image by these button" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="240" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rKbv__8entvgOV00URj3-35" value="" style="endArrow=none;dashed=1;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;jumpStyle=arc;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="rKbv__8entvgOV00URj3-34" target="rKbv__8entvgOV00URj3-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="-10" as="sourcePoint" />
+            <mxPoint x="511" y="90" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="980" y="100" />
+              <mxPoint x="300" y="100" />
+              <mxPoint x="300" y="178" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rKbv__8entvgOV00URj3-36" value="" style="endArrow=none;dashed=1;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;jumpStyle=arc;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="rKbv__8entvgOV00URj3-34" target="rKbv__8entvgOV00URj3-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="990" y="250" as="sourcePoint" />
+            <mxPoint x="240" y="188" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="980" y="100" />
+              <mxPoint x="740" y="100" />
+              <mxPoint x="740" y="178" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rKbv__8entvgOV00URj3-37" value="or select Directly with these circles(index)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="920" y="290" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rKbv__8entvgOV00URj3-38" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="480" y="190" width="30" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rKbv__8entvgOV00URj3-39" value="" style="endArrow=none;dashed=1;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;jumpStyle=arc;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="rKbv__8entvgOV00URj3-37" target="rKbv__8entvgOV00URj3-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="939" y="430" as="sourcePoint" />
+            <mxPoint x="850" y="530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="920" y="310" />
+              <mxPoint x="810" y="310" />
+              <mxPoint x="810" y="235" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rKbv__8entvgOV00URj3-40" value="Select character from iamge grid, show in &amp;lt;Character Lore Info&amp;gt; Space." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="377.5" y="530" width="195" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rKbv__8entvgOV00URj3-41" value="" style="endArrow=none;dashed=1;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;jumpStyle=arc;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="rKbv__8entvgOV00URj3-40" target="rKbv__8entvgOV00URj3-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="900" y="640" as="sourcePoint" />
+            <mxPoint x="505" y="245" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="475" y="500" />
+              <mxPoint x="355" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rKbv__8entvgOV00URj3-42" value="Select world related image from iamge grid, show in &amp;lt;World Related Image Description&amp;gt; Space." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="734" y="520" width="195" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rKbv__8entvgOV00URj3-43" value="" style="endArrow=none;dashed=1;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;jumpStyle=arc;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="rKbv__8entvgOV00URj3-42" target="rKbv__8entvgOV00URj3-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1049" y="530" as="sourcePoint" />
+            <mxPoint x="929" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="832" y="510" />
+              <mxPoint x="832" y="510" />
+              <mxPoint x="832" y="490" />
+              <mxPoint x="647" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="h4Vc_nbBDGJlCfH-0vM6" name="Dialog_LoreViewer">
+    <mxGraphModel dx="1430" dy="935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="St7hpZo5Yzf_qcA_ik_--1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="34" y="60" width="766" height="710" as="geometry" />
+        </mxCell>
+        <mxCell id="St7hpZo5Yzf_qcA_ik_--2" value="Godlike - Lore Viewer" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="34" y="60" width="766" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="St7hpZo5Yzf_qcA_ik_--3" value="X" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="60" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="St7hpZo5Yzf_qcA_ik_--4" value="ㅁ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="60" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="St7hpZo5Yzf_qcA_ik_--5" value="_" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="60" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="St7hpZo5Yzf_qcA_ik_--6" value="World Title" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="34" y="80" width="276" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="St7hpZo5Yzf_qcA_ik_--8" value="Editor Screen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="120" width="500" height="650" as="geometry" />
+        </mxCell>
+        <mxCell id="St7hpZo5Yzf_qcA_ik_--24" value="Lore Title Name" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="80" width="500" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="St7hpZo5Yzf_qcA_ik_--7" value="Lore Selection Tab" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="34" y="120" width="266" height="650" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
